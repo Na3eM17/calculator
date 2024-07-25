@@ -15,6 +15,11 @@
   color: aliceblue;
   border: 2px solid black;
 }
+.r1 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 
 body {
   display: flex;
