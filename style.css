@@ -60,6 +60,8 @@ button {
     width: 60px;
     height: 60px;
     font-size: 50px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
     margin: 5px;
   }
   input {
