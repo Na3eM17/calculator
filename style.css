@@ -75,7 +75,7 @@ button {
   }
 }
 
-@media screen and (max-width: 333px) {
+@media screen and (max-width: 425px) {
   button {
     width: 50px;
     height: 50px;
@@ -84,9 +84,6 @@ button {
   input {
     height: 50px;
     font-size: 30px;
-  }
-  .contanor {
-    width: 100%;
   }
   .contanor {
     width: 100%;
